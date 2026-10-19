@@ -1,8 +1,8 @@
-console.log("Student Name", "Group Name");
+console.log("Sultanali", "SE-2529");
 
 alert("Hello, JavaScript World!");
 
-let studentName = "Alice";
+let studentName = "Sultanali";
 let studentAge = 20;
 let isStudent = true;
 
